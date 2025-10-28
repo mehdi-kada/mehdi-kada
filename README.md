@@ -1,8 +1,8 @@
 ### Amara Kada.
 
-Nextjs/Python developer focused on building fast and scalable backends with **FastAPI**. I enjoy taking projects full-stack to build a complete product.
+typescript/Python developer focused on building fast and scalable SaaS with **NextJs** and **FastAPI**. I enjoy taking projects full-stack to build a complete product.
 
-- Currently building on **IELTSpeak** and diving deep into advanced **FastAPI** patterns for performance.
+- Currently building **FireNail** and diving deep into advanced **FastAPI** patterns for performance.
 - Contact: `mehdikada64@gmail.com`
 
 ---
@@ -36,7 +36,21 @@ The stack is **Next.js**, **Supabase**, and **Tailwind CSS**. It's monetized wit
 
 ---
 
-## 📊 Stats
+## 📜 Certifications
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehdi-kada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-kada&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+- **Data Science Associate with Python** – DataCamp  
+  <a href="https://www.datacamp.com/statement-of-accomplishment/track/33412c012955fc206dc8a54f096e6dd6af631297?raw=1" target="_blank">
+    <img src="https://img.shields.io/badge/DataCamp-Associate_Data_Scientist-05192D?style=flat-square&logo=datacamp&logoColor=03E860" alt="DataCamp Badge">
+  </a> 
+  ![Completion](https://img.shields.io/badge/Completion-100%25-success?style=flat-square)  
+- **Advanced Learning Algorithms** – DeepLearning.AI 
+  [View Certificate](https://www.coursera.org/account/accomplishments/verify/2IDW9E2YAJUU?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+
+- **Supervised Machine Learning: Regression and Classification** – DeepLearning.AI 
+  [View Certificate](https://www.coursera.org/account/accomplishments/verify/92UJQJP6P3EF)
+
+- **Databases and SQL for Data Science with Python** – IBM 
+  [View Certificate](https://www.coursera.org/account/accomplishments/verify/K2GNY8W6JML2)
+
+- **Python for Data Science, AI & Development** – IBM
+  [View Certificate](https://www.coursera.org/account/accomplishments/verify/YC5V7UEQZGK5)
